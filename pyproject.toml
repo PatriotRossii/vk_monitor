@@ -10,6 +10,7 @@ typer = "^0.4.1"
 pandas = "^1.4.2"
 matplotlib = "^3.5.2"
 vk = "^2.0.2"
+schedule = "^1.1.0"
 
 [tool.poetry.dev-dependencies]
 
